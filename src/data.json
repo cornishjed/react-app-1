@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "John Doe",
+        "Email": "john.doe@example.com",
+        "Avatar": "https://via.placeholder.com/150"
+    },
+    {
+        "Name": "Jane Smith",
+        "Email": "jane.smith@example.com",
+        "Avatar": "https://via.placeholder.com/150"
+    }
+]
