@@ -2,10 +2,10 @@ import React from 'react';
 
 export default function UserCard({key, name, email, avatar}) {
     return (
-        <div>
-            <h1>{name}</h1>
-            <h2>{email}</h2>
+        <li className='userslist__listitem'>
+            <h4>{name}</h4>
+            <i>{email}</i>
             <img src={avatar} alt={name}/>
-        </div>
+        </li>
     )
 }
