@@ -1,8 +1,8 @@
 import React from "react";
 
-import userData from "./data.json";
-import UserCard from "./UserCard";
-import Header from "./Header";
+import userData from "./data/data.json";
+import UserCard from "./components/UserCard";
+import Header from "./components/Header";
 
 function App() {
   const userCompArr = [];
